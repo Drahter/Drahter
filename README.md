@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drahter
-- 👀 I’m interested in Python programming
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning sintax and functions
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
