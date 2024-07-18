@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drahter
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning sintax and functions
+- 🌱 I’m currently learning OOP and TDD
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 
