@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Drahter
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning OOP and TDD
+- 👀 I’m interested in fullstack development 
+- 🌱 I’m currently learning ElasticSearch and logging
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
 
 <!---
 Drahter/Drahter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
