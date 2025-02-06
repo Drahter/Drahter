@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Drahter
-- 👀 I’m interested in fullstack development 
+- 👋 Hi, I’m Dmitry
+- 👀 I’m interested in backend and fullstack development 
 - 🌱 I’m currently learning ElasticSearch and logging
 - 💞️ I’m looking to collaborate on anything!
 
